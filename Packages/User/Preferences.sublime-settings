@@ -1,0 +1,49 @@
+{
+	"added_words":
+	[
+		"uuid",
+		"guid",
+		"php",
+		"url",
+		"Auth",
+		"viewability",
+		"genetikz",
+		"admin"
+	],
+	"atomic_save": true,
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_indentation": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".bundle",
+		".sass-cache"
+	],
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 8,
+	"shift_tab_unindent": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

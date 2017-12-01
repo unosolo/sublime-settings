@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"Console Wrap",
+		"CSScomb",
+		"DoxyDoxygen",
+		"GitGutter",
+		"GitSavvy",
+		"HTML Nest Comments",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Inc-Dec-Value",
+		"Local History",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Phpcs",
+		"ReadmePlease",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-phpmd",
+		"SummitLinter",
+		"Theme - Spacegray",
+		"Tomorrow Night Italics Color Scheme",
+		"Visual Studio Bold Color Scheme"
+	]
+}

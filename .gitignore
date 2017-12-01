@@ -1,6 +1,10 @@
 # Ignore everything
 *
 
+# Do not ignore directories, so we can recurse into them
+!*/
+
 # ...except preferences
 !.gitignore
 !*.sublime-settings
+
