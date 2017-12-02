@@ -5,7 +5,7 @@ You can create the repository in the existing sublime text 3 directory of all ot
 
 ```sh
 $ git init
-$ git remote add origin <repository url>
+$ git remote add origin https://github.com/unosolo/sublime-settings.git
 $ git fetch
 $ git reset --hard origin/master
 ```
