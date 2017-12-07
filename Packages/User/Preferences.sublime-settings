@@ -15,7 +15,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": false,
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/Tomorrow Night Italics Color Scheme/Tomorrow-Night-Italics.tmTheme",
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
 	"folder_exclude_patterns":
